@@ -1,0 +1,2 @@
+/opt/Grid/bin/WhiteCore.Addon.WebUI.dll
+/opt/Grid/addon-modules/WhiteCoreWebUI/Modules/obj/x86/Release/WhiteCore.Addon.WebUI.dll
